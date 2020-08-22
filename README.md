@@ -1,2 +1,2 @@
 # ABESIT-JS
-All about Javasript examples and demo!
+Just Basics of JavaScript with some exercises
